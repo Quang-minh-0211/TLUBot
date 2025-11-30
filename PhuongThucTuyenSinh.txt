@@ -1,0 +1,121 @@
+Phương thức 1: Xét tuyển thẳng
+Điều kiện: thí sinh Đạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi Quốc gia, quốc tế hoặc thi khoa học kỹ thuật cấp quốc gia, quốc tế do Bộ Giáo dục và Đào tạo tổ chức, cử tham gia. Thời gian Đạt giải không quá 3 nằm tính đến thời gian xét tuyển được tuyển thẳng vào trường theo ngành phù hợp với môn thi. Cụ thể như sau: 
+
+|   TT | Tên môn thi HSG         | Tên ngành xét tuyển                                                                    |
+|------|-------------------------|----------------------------------------------------------------------------------------|
+|    1 | Toán, Vật lý, Tiếng Anh | Tất cả các ngành						 			  |
+|    2 | Hóa học                 | Tất cả các ngành, trừ các ngành: Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật, Luật kinh tế |
+|    3 | Sinh học                | Ký thuật môi trường, Kỹ thuật hóa học, Công nghệ sinh học	 			  |
+|    4 | Tin học                 | Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo và khoa   | 
+				 | học dữ liệu, An ninh mạng, Kỹ thuật điều khiển và tự động hóa, Kỹ thuật robot và điều  |
+				 | khiển thông minh, Kỹ thuật điện tử viễn thông, Kỹ thuật cơ điện tử 			  |
+|    5 | Ngữ văn                 | Ngôn ngữ Anh, Ngôn ngữ Trung Quốc, Luật, Luật kinh tế         			  |
+|    6 | Lịch sử, Địa lý         | Luật, Luật kinh tế									  |
+|    7 | Tiếng Trung Quốc        | Ngôn ngữ Trung Quốc									  |
+
+
+Phương thức 2: Xét tuyển kết hợp kết quả học THPT và các điều kiện ưu tiên
+Điều kiện: Thí sinh có kết quả học tập đủ 3 năm THPT, đối với thí sinh được khen thưởng học sinh xuất sắc, học sinh giỏi 3 năm THPT, Thí sinh có chứng chỉ Tiếng Anh IELTS từ 5.0 trở lên hoặc chứng chỉ ngoại ngữ tương đương còn hạn tính đến ngày xét, thí sinh đạt giải nhất, nhì, ba kỳ thi học sinh giỏi cấp tỉnh, thành phố, thí sinh là học sinh trường chuyên được cộng điểm ưu tiên).
+
+Cách tính Điểm xét tuyển (ĐXT):
+
+ĐXT = Điểm M1 + Điểm M2 + Điểm M3 + Điểm cộng XT + ĐƯT
+
+Riêng các ngành có môn nhân hệ số 2, điểm xét tuyển được quy về thang điểm 30:
+ĐXT = (Điểm M1 + Điểm M2 Điểm môn hệ số 2*2) / 4 * 3 + điểm cộng XT + ĐƯT
+
+Trong đó:
+Điểm M1 = (TB năm lớp 10 môn 1 + TB năm lớp 11 môn 1 + TB năm lớp 12 môn 1) / 3
+Điểm M2 = (TB năm lớp 10 môn 2 + TB năm lớp 11 môn 2 + TB năm lớp 12 môn 2) / 3
+Điểm M3 = (TB năm lớp 10 môn 3 + TB năm lớp 11 môn 3 + TB năm lớp 12 môn 3) / 3
+ĐƯT: Là điểm ưu tiên khu vực và đối tượng theo Quy chế của Bộ Giáo dục và Đào tạo;
++ Điểm cộng XT: Là tổng điểm cộng cho các thí sinh ĐKXT thuộc các đối tượng sau:
+a) Thí sinh là học sinh đạt giải học sinh giỏi cấp tỉnh, thành phố trực thuộc Trung ương các môn trong tổ hợp xét tuyển của ngành ĐKXT; Thí sinh là học sinh các trường chuyên; Thí sinh được khen thưởng học sinh xuất sắc, học sinh giỏi năm lớp 10, lớp 11 và năm lớp 12 được cộng điểm vào điểm xét tuyển như sau:
+| TT | Đối tượng                                                                    | Điểm cộng XT |
+| -- | ---------------------------------------------------------------------------- | ------------ |
+| 1  | Giải Nhất cấp tỉnh                                                           | 1.00         |
+| 2  | Giải Nhì cấp tỉnh                                                            | 0.75         |
+| 3  | Giải Ba cấp tỉnh                                                             | 0.50         |
+| 4  | Giải Khuyến khích cấp tỉnh                                                   | 0.25         |
+| 5  | Được khen thưởng học sinh xuất sắc, học sinh giỏi năm lớp 10, lớp 11, lớp 12 | 0.25         |
+| 6  | Là học sinh lớp chuyên các môn chuyên trong tổ hợp xét tuyển                 | 0.50         |
+| 7  | Là học sinh trường chuyên không thuộc lớp chuyên                             | 0.25         |
+Ghi chú: Thí sinh đạt nhiều giải thì tính giải đạt cao nhất
+
+
+b) Thí sinh đạt giải trong các kỳ thi NCKH/HKT cấp tỉnh, thành phố trực thuộc Trung ương
+Được cộng điểm vào điểm xét tuyển đối với các ngành thuộc Tổ hợp tương ứng với nội dung giải của kỳ thi như sau:
+| TT | Đối tượng          | Điểm cộng XT |
+| -- | ------------------ | ------------ |
+| 1  | Giải nhất cấp tỉnh | 0.75         |
+| 2  | Giải nhì cấp tỉnh  | 0.50         |
+| 3  | Giải ba cấp tỉnh   | 0.25         |
+Ghi chú: Thí sinh đạt nhiều giải thì được tính giải đạt cao nhất.
+
+c) Thí sinh có chứng chỉ ngoại ngữ quốc tế và tương đương còn hiệu lực đến ngày xét tuyển
+Được cộng điểm vào điểm xét tuyển như sau:
+
+| Ngôn ngữ  | Loại chứng chỉ | Khung năng lực ngoại ngữ Việt Nam – Bậc 3 | Bậc 4       | Bậc 5 trở lên |
+| --------- | -------------- | ----------------------------------------- | ----------- | ------------- |
+| Tiếng Anh | IELTS          | 5.0 – 5.5                                 | 6.0 – 6.5   | 7.0 trở lên   |
+|           | TOEFL Paper    | 473 – 510                                 | 547 trở lên | 550 trở lên   |
+|           | TOEFL CBT      | 153 – 180                                 | 213 trở lên | 213 trở lên   |
+
+| Ngôn ngữ         | Loại chứng chỉ         | Bậc 3     | Bậc 4     | Bậc 5 trở lên |
+| ---------------- | ---------------------- | --------- | --------- | ------------- |
+| Tiếng Trung Quốc | TOEFL IBT *(theo ảnh)* | 53 – 64   | 65 – 78   | 79 trở lên    |
+|                  | TOEIC *(theo ảnh)*     | 550 – 780 | 701 – 900 | 901 trở lên   |
+|                  | HSK                    | Bậc 3     | Bậc 4     | Bậc 5 trở lên |
+
+| Ngôn ngữ       | Loại chứng chỉ | Bậc 3     | Bậc 4     | Bậc 5 trở lên |
+| -------------- | -------------- | --------- | --------- | ------------- |
+| Tiếng Hàn Quốc | TOPIK II       | 120 – 149 | 150 – 190 | 191 trở lên   |
+
+| Ngôn ngữ       | Loại chứng chỉ | Bậc 3 | Bậc 4 | Bậc 5 trở lên |
+| -------------- | -------------- | ----- | ----- | ------------- |
+| Tiếng Nhật Bản | JLPT           | N3    | N2    | N1            |
+
+| Ngôn ngữ  | Loại chứng chỉ    | Bậc 3                | Bậc 4                | Bậc 5 trở lên        |
+| --------- | ----------------- | -------------------- | -------------------- | -------------------- |
+| Tiếng Đức | TestDaF           | TestDaF Bậc 3        | TestDaF Bậc 4        | TestDaF Bậc 5        |
+|           | Goethe-Zertifikat | Goethe-Zertifikat B1 | Goethe-Zertifikat B2 | Goethe-Zertifikat C1 |
+
+| Ngôn ngữ   | Loại chứng chỉ | Bậc 3     | Bậc 4     | Bậc 5 trở lên |
+| ---------- | -------------- | --------- | --------- | ------------- |
+| Tiếng Pháp | TCF            | 300 – 399 | 400 – 499 | 500 trở lên   |
+
+Ghi chú: Thí sinh có nhiều chứng chỉ được tính chứng chỉ cao nhất.
+
+Phương thức 3: Xét tuyển kết quả kỳ thi tốt nghiệp THPT năm 2025
+Đối tượng: Thí sinh ĐKXT theo hướng dẫn của Bộ GD&ĐT, thí sinh có chứng chỉ ngoại ngữ quốc tế được quy đổi điểm thành điểm thi môn ngoại ngữ trong tổ hợp đăng ký xét tuyển (nếu có nguyện vọng).
+
+| Ngôn ngữ             | Loại chứng chỉ | Khung năng lực ngoại ngữ Việt Nam – Bậc 3 | Bậc 4     | Bậc 5 trở lên |
+| -------------------- | -------------- | ----------------------------------------- | --------- | ------------- |
+| Tiếng Anh            | IELTS          | 5.0 – 5.5                                 | 6.0 – 6.5 | 7.0 trở lên   |
+|                      | TOEFL Paper    | 477 – 510                                 | 513 – 547 | 550 trở lên   |
+|                      | TOEFL CBT      | 153 – 180                                 | 183 – 210 | 213 trở lên   |
+|                      | TOEFL IBT      | 53 – 64                                   | 65 – 78   | 79 trở lên    |
+|                      | TOEIC          | 600 – 700                                 | 701 – 900 | 901 trở lên   |
+| Tiếng Trung Quốc     | HSK            | Bậc 3                                     | Bậc 4     | Bậc 5 trở lên |
+| Điểm môn ngoại ngữ quy đổi            | 8.0					    | 9.0	| 10   		|
+
+Phương thức 4: Xét tuyển kết quả kỳ thi đánh giá tư duy gồm các ngành
+| TT | Mã tuyển sinh | Tên ngành/Nhóm ngành                    | Tổ hợp xét tuyển |
+| -- | ------------- | --------------------------------------- | ---------------- |
+| 1  | TLA119        | Công nghệ sinh học                      | K00              |
+| 2  | TLA109        | Kỹ thuật môi trường                     | K00              |
+| 3  | TLA118        | Kỹ thuật hóa học                        | K00              |
+| 4  | TLA106        | Công nghệ thông tin                     | K00              |
+| 5  | TLA116        | Hệ thống thông tin                      | K00              |
+| 6  | TLA117        | Kỹ thuật phần mềm                       | K00              |
+| 7  | TLA126        | Trí tuệ nhân tạo và khoa học dữ liệu    | K00              |
+| 8  | TLA127        | An ninh mạng                            | K00              |
+| 9  | TLA105        | Kỹ thuật cơ khí                         | K00              |
+| 10 | TLA122        | Công nghệ chế tạo máy                   | K00              |
+| 11 | TLA123        | Kỹ thuật Ô tô                           | K00              |
+| 12 | TLA129        | Kỹ thuật cơ điện tử                     | K00              |
+| 13 | TLA131        | Kỹ thuật điện                           | K00              |
+| 14 | TLA121        | Kỹ thuật điều khiển và tự động hóa      | K00              |
+| 15 | TLA114        | Kỹ thuật điện tử – viễn thông           | K00              |
+| 16 | TLA132        | Kỹ thuật Robot và Điều khiển thông minh | K00              |
+| 17 | TLA203        | Ngôn ngữ Anh                            | K00              |
